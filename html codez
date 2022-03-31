@@ -83,7 +83,7 @@
             <tr>
             <td align="center" colspan="2">
             <input type="submit" name="submit">
-            <input type="reset" name="reser">
+            <input type="reset" name="reset">
             </td>
             </tr>
          </form>
