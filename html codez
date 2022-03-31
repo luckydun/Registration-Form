@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+   <head><title>Registration Page</title>
+   </head>
+  <body>
+<h1 align="center"><u>Registration Form</u></h1>
+      <table>
+         <form>
+            <tr>
+            <td>
+            First Name
+            </td>
+            <td>
+            <input type="text" name="fname">
+            </td>
+            </tr>
+            <td>
+            Last Name
+            </td>
+            <td>
+            <input type="text" name="lname">
+            </td>
+            </tr>
+            <tr>
+            <td>
+            Nick Name
+            <td>
+            <input type="text" name="nname">
+            </td
+            </td>
+            </tr>
+            <tr>
+            <td>
+            e-mail
+            </td>
+            <td>
+            <input type="email" name="email">
+            </td>
+            </tr>
+            <td>
+            Password
+            </td>
+            <td>
+            <input type="password" name="pswd">
+            </td>
+            </tr>
+            <td>
+            Date of Birth
+            </td>
+            <td>
+            <input type="dateofbirth" name="dob">
+            </td>
+            </tr>
+            <tr>
+            <td>
+            Gender
+            </td>
+            <td>
+            <input type="radio" name="sex" value="gender">
+            Female
+            <input type="radio" name="sex" value="gender">
+            Male
+            <input type="radio" name="sex" value="gender">
+            Other
+            </td>
+            </tr>
+            <tr>
+            <td>
+            Mobile
+            </td>
+            <td>
+            <input type="digits" name="tel">
+            </td>
+            </tr>
+            <tr>
+            <td>
+            Address
+            </td>
+            <td>
+            <input type="text" name="add">
+            </td>
+            </tr>
+            <tr>
+            <td align="center" colspan="2">
+            <input type="submit" name="submit">
+            <input type="reset" name="reser">
+            </td>
+            </tr>
+         </form>
+      </table>
+  </body>
+</html>
